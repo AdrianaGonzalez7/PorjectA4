@@ -7,7 +7,11 @@ public class DemoTest4 {
 		
 		String name = "John";
 		String city = "new york";
-		
+
+		// Change variables to int
+
+		int a = 10;
+		int b = 20;
 		
 	}
 }
